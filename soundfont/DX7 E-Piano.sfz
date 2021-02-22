@@ -1,0 +1,1841 @@
+// Created with Renoise - https://www.renoise.com
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-0.flac
+pitch_keycenter=0
+lokey=0 hikey=2
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#0.flac
+pitch_keycenter=3
+lokey=3 hikey=5
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#0.flac
+pitch_keycenter=6
+lokey=6 hikey=8
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-0.flac
+pitch_keycenter=9
+lokey=9 hikey=11
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-1.flac
+pitch_keycenter=12
+lokey=12 hikey=14
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#1.flac
+pitch_keycenter=15
+lokey=15 hikey=17
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#1.flac
+pitch_keycenter=18
+lokey=18 hikey=20
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-1.flac
+pitch_keycenter=21
+lokey=21 hikey=23
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-2.flac
+pitch_keycenter=24
+lokey=24 hikey=26
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#2.flac
+pitch_keycenter=27
+lokey=27 hikey=29
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#2.flac
+pitch_keycenter=30
+lokey=30 hikey=32
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-2.flac
+pitch_keycenter=33
+lokey=33 hikey=35
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-3.flac
+pitch_keycenter=36
+lokey=36 hikey=38
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#3.flac
+pitch_keycenter=39
+lokey=39 hikey=41
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#3.flac
+pitch_keycenter=42
+lokey=42 hikey=44
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-3.flac
+pitch_keycenter=45
+lokey=45 hikey=47
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-4.flac
+pitch_keycenter=48
+lokey=48 hikey=50
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#4.flac
+pitch_keycenter=51
+lokey=51 hikey=53
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#4.flac
+pitch_keycenter=54
+lokey=54 hikey=56
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-4.flac
+pitch_keycenter=57
+lokey=57 hikey=59
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-5.flac
+lokey=60 hikey=62
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-5.flac
+lokey=60 hikey=62
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-5.flac
+lokey=60 hikey=62
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-5.flac
+lokey=60 hikey=62
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-5.flac
+lokey=60 hikey=62
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-5.flac
+lokey=60 hikey=62
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-5.flac
+lokey=60 hikey=62
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-5.flac
+lokey=60 hikey=62
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#5.flac
+pitch_keycenter=63
+lokey=63 hikey=65
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#5.flac
+pitch_keycenter=66
+lokey=66 hikey=68
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-5.flac
+pitch_keycenter=69
+lokey=69 hikey=71
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-6.flac
+pitch_keycenter=72
+lokey=72 hikey=74
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#6.flac
+pitch_keycenter=75
+lokey=75 hikey=77
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#6.flac
+pitch_keycenter=78
+lokey=78 hikey=80
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-6.flac
+pitch_keycenter=81
+lokey=81 hikey=83
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-7.flac
+pitch_keycenter=84
+lokey=84 hikey=86
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_D#7.flac
+pitch_keycenter=87
+lokey=87 hikey=89
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_F#7.flac
+pitch_keycenter=90
+lokey=90 hikey=92
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_A-7.flac
+pitch_keycenter=93
+lokey=93 hikey=95
+lovel=112 hivel=127
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x0F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=0 hivel=15
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x1F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=16 hivel=31
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x2F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=32 hivel=47
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x3F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=48 hivel=63
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x4F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=64 hivel=79
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x5F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=80 hivel=95
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x6F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=96 hivel=111
+amp_veltrack=0.0
+
+<region>
+sample=DX7 E-Piano Samples/VST_ Dexed (E.-PIANO)_0x7F_C-8.flac
+pitch_keycenter=96
+lokey=96 hikey=119
+lovel=112 hivel=127
+amp_veltrack=0.0
